@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Control system</string>
+    <integer-array name="test_arr">
+        <item>@drawable/action2</item>
+        <item>@drawable/people</item>
+        <item>@drawable/set2</item>
+        <item>@drawable/people</item>
+
+    </integer-array>
+</resources>
